@@ -1,0 +1,6 @@
+fastapi==0.100.0
+uvicorn[standard]==0.22.0
+SQLAlchemy==2.0.19
+pydantic==1.10.12
+databases
+python-dotenv==1.0.0
